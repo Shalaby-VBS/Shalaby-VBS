@@ -18,33 +18,15 @@
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-
-
 ## 📊 My Stats:
 
 <a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shalaby-VBS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalaby-VBS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
+<p align="start">
+    <a href="https://github.com/Shalaby-VBS/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shalaby's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shalaby-VBS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## 🤝 Connect With Me:
 
