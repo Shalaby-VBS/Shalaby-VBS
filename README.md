@@ -37,7 +37,14 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+
+
+## 📊 My Stats:
+
+<a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shalaby-VBS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalaby-VBS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
 
 ## 🤝 Connect With Me:
 
