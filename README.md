@@ -30,7 +30,10 @@
 
 ## 🤝 Connect With Me:
 
-<div align="center"> 
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100093012790432&mibextid=hIlR13">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="mailto:shalaby.vbs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
