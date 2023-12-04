@@ -31,18 +31,23 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100093012790432&mibextid=hIlR13">
-    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+    <a href="https://www.linkedin.com/in/ahmed-shalaby-21196521b/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
+  <a href="https://www.instagram.com/sh4l4by/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
   <a href="mailto:shalaby.vbs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-shalaby-21196521b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.facebook.com/profile.php?id=100093012790432&mibextid=hIlR13">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
 ## 💜 Views and Followers:
+
 <a href="https://github.com/Shalaby-VBS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Shalaby-VBS">
 </a>
