@@ -20,7 +20,7 @@
 </div>
 <br>
 
-## 🚀 Languages and Tools:
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,swift,c,graphql" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
@@ -32,7 +32,7 @@
 </div>
 <br>
 
-## 📊 My Stats:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
 
 <a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shalaby-VBS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalaby-VBS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
